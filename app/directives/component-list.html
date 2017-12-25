@@ -1,0 +1,9 @@
+<section>
+	<ul>
+		<li ng-repeat="item in list.items | limitTo:5">
+			<span>{{item.id}} </span>
+			<span><strong>{{item.name}} </strong></span>
+			<span>created: {{item.created | date}}</span>
+		</li>
+	</ul>
+</section>

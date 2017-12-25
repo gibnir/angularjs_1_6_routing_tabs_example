@@ -1,0 +1,20 @@
+{
+  "name": "angularjs_1_6_routing_tabs_example",
+  "version": "1.0.0",
+  "description": "angularjs 1.6 nav tabs example.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "angularjs_1_6_routing_tabs_example"
+  },
+  "author": "Nir Gibli",
+  "license": "ISC",
+  "dependencies": {
+    "@uirouter/angularjs": "^1.0.12",
+    "angular": "^1.6.7",
+    "bootstrap": "^3.3.7"
+  }
+}
